@@ -1,0 +1,17 @@
+.cabecalho{
+    background: url(fome.jpg);
+    text-align: center;
+    color: rgb(255, 251, 0);
+    padding: 100px;
+    border: solid yellow;
+   }
+   #titulo{
+       font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+       border: solid yellow;
+       color:white;
+       
+   }
+   #titulo:hover{
+       background-color: white;
+       color: red;
+   }
